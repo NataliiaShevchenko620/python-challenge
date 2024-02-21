@@ -5,13 +5,8 @@ This repository contains Python scripts for performing financial and election an
 ## Introduction
 This project consists of two Python scripts:
 
-- PyBank/main.py: This script analyzes financial data from a CSV file containing budget information. It calculates total months, total profits/losses, average change, and identifies the greatest increase and decrease in profits.
-- PyPoll/main.py: This script analyzes election data from a CSV file containing voting information. It calculates the total number of votes, determines the winner of the election based on popular vote, and provides a breakdown of votes for each candidate.
-Scripts
-
-`PyBank/main.py`: Analyzes financial data and generates a summary report.
-
-`PyPoll/main.py`: Analyzes election data and generates a summary report.
+- `PyBank/main.py`: This script analyzes financial data from a CSV file containing budget information and generates a summary report. It calculates total months, total profits/losses, average change, and identifies the greatest increase and decrease in profits.
+- `PyPoll/main.py`: This script analyzes election data from a CSV file containing voting information and generates a summary report. It calculates the total number of votes, determines the winner of the election based on popular vote, and provides a breakdown of votes for each candidate.
 
 
 ## Run the desired script:
