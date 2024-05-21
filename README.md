@@ -28,10 +28,13 @@ For the script 1 we will get the file called `analysis_summary.txt` in the follo
 
 `PyBank/analysis/analysis_summary.txt`
 
+![pybank](Images/pybank.png)
 
 For the script 2 we will get the file called `election_results.txt` in the following directory:
 
 `PyPoll/analysis/election_results.txt`
+
+![pypoll](Images/pypoll.png)
 
 The script will generate a summary report both in the console and in a text file located in the analysis directory.
 
